@@ -1,5 +1,7 @@
 # ROS 2 Hand-Gesture Teleoperation System
 
+![Project Demo](hand_telop.gif)
+
 An end-to-end robotics project demonstrating a distributed architecture for real-time robot control using Computer Vision and AI.
 
 ## 🚀 Overview
