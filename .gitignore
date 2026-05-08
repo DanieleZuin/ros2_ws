@@ -1,0 +1,17 @@
+# Ignora le cartelle di compilazione di ROS 2
+build/
+install/
+log/
+
+# Ignora i file video e i dataset pesanti
+*.mp4
+*.mcap
+*.db3
+*.bag
+
+# Ignora i file temporanei di Python
+__pycache__/
+*.pyc
+
+visual_brain.py
+vision_ai.py
